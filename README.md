@@ -1,7 +1,7 @@
 # EDP
 Resolução dos exercícios previstos ( dentro da pasta Burden )
 
-## Burden 11.1
+## Burden 12.1
 Fez-se a comparação entre as matrizes das soluções numéricas e exatas. Logo após, através da matriz numérica foram feitos os gráficos 2D.
 ### 1
 * Algoritmo: 1-1.c
